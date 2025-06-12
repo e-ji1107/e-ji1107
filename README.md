@@ -3,7 +3,7 @@
 I want to 
 
 ## 🧑‍💻 I have...
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:diddmswl1107@gmail.com)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so)
 
 ## 🧑‍💻 I am studying...
