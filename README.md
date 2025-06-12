@@ -1,8 +1,11 @@
 # Hi there! 👋 I'm e-ji1107
-I want to become
+I want to become a developer who creates convenient lives
 
 ## 📚 Currently Learning...
+I am currently studying the following languages, frameworks, and technologies.
+
 <br>
+
 ## 🧑‍💻 Languages 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
@@ -23,10 +26,11 @@ I want to become
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
 
 <br>
-(Currently Learning)
+
+## 🛠️ Tools & Technologies
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 
-<br> 
+<br>
 
 ## 📬 Contact Me
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:diddmswl1107@gmail.com)
