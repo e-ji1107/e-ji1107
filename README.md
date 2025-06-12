@@ -1,8 +1,10 @@
 # Hi there! 👋 I'm e-ji1107
-I want to become a developer who creates convenient lives
 
-## 📚 Currently Learning...
-###🧑‍💻 Languages 
+## 📪 I have...
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so)
+
+## 📖 I am studying...
+### 🧑‍💻 Languages 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/en/)
