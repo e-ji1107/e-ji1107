@@ -7,8 +7,8 @@
 ## Profile
 - `Name` : Yang EunJi
 - `Email` : diddmswl1107@gmail.com
-- '학력' : 동의대학교 컴퓨터소프트웨어공학과 학사
-- '이력' : 부경대학교 어쩌구 수업
+- 학력 : 동의대학교 컴퓨터소프트웨어공학과 학사
+- 이력 : 부경대학교 어쩌구 수업
 - 🔭 I'm currently working as an **IoT instructor**
   - Major : C#, Smart Factory, IoT Development
   - Minor : Python, Java, Web Dev(Spring Boot, ASP.NET, etc)
