@@ -28,30 +28,36 @@
 
 ## Using Languages
 <p align='left'>
-    <img height="40" src="https://img.icons8.com/?size=100&id=55199&format=png&color=000000" title="C++">
-    <img height="40" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" title="Python">
     <img height="40" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" title="Java">
+    <img height="40" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" title="Python">
+    <img height="40" src="https://img.icons8.com/?size=100&id=55199&format=png&color=000000" title="C++">
     <img height="40" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" title="Javascript">
-    
-    <img width="40" height="40" src="https://img.icons8.com/nolan/64/oracle-logo.png" alt="oracle-logo" title="Oracle">
-    <img width="40" height="40" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server" title="SQL Server">
-    
+    <img width="40" height="40" src="https://img.icons8.com/color/40/html-5--v1.png" alt="html-5--v1"/>
+    <img width="40" height="40" src="https://img.icons8.com/color/40/css3.png" alt="css3"/>
+
 </p>
 
-## Using Technics
+## Using DBMS
 <p align='left'>
- 
-  <img height="40" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" title="Spring Boot">  
-  <img width="40" height="40" src="https://img.icons8.com/fluency/48/docker.png" alt="docker" title="Docker">
-  
-
+  <img width="40" height="40" src="https://img.icons8.com/nolan/64/oracle-logo.png" alt="oracle-logo" title="Oracle">
+  <img width="40" height="40" src="https://img.icons8.com/color/40/mysql-logo.png" alt="mysql-logo"/>
 </p>
 
-## Using Tools
+## Using Framework
+<p align='left'>
+  <img height="40" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" title="Spring Boot">  
+  <img width="40" height="40" src="https://img.icons8.com/glyph-neue/40/jsp.png" alt="jsp"/>
+  <img width="40" height="40" src="https://img.icons8.com/ios-glyphs/100/react.png" alt="react"/>
+  
+</p>
+
+## Using Tools 
 <p align='left'>
   <img height="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
   <img height="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" title="Visual Studio">
-  
+  <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-eclipse-an-integrated-development-environment-used-in-computer-programming-logo-color-tal-revivo.png" alt="external-eclipse-an-integrated-development-environment-used-in-computer-programming-logo-color-tal-revivo"/>
+  <img width="40" height="40" src="https://img.icons8.com/fluency/40/jupyter.png" alt="jupyter"/>
+  <img width="40" height="40" src="https://img.icons8.com/fluency/48/docker.png" alt="docker" title="Docker">
 </p>
 
 <!--
