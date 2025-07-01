@@ -6,7 +6,9 @@
 
 ## Profile
 - `Name` : Yang EunJi
-- `Email` : personar95@naver.com
+- `Email` : diddmswl1107@gmail.com
+- '학력' : 동의대학교 컴퓨터소프트웨어공학과 학사
+- '이력' : 부경대학교 어쩌구 수업
 - 🔭 I'm currently working as an **IoT instructor**
   - Major : C#, Smart Factory, IoT Development
   - Minor : Python, Java, Web Dev(Spring Boot, ASP.NET, etc)
@@ -14,7 +16,7 @@
 ## GitHub Stat and Languages
 <!-- username은 본인걸로 -->
 <p align='center'>
-  <a href="https://github.com/hugoMGSung">
+  <a href="https://github.com/e-ji1107">
     <img src="https://github-readme-stats.vercel.app/api?username=hugoMGSung&theme=tokyonight&show_icons=true"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoMGSung&theme=tokyonight&layout=compact"/>
   </a>
