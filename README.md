@@ -11,7 +11,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=e-ji1107&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/e-ji1107"
-  width="600"
+  width="1000"
   height="300"
 />
 </a>
