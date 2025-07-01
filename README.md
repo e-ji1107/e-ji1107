@@ -1,25 +1,19 @@
 <p align='center'>
-  <a href="https://github.com/hugoMGSung">
-    <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hugo's%20Dev%20Repo&section=header&fontColor=005174&fontSize=60&fontAlign=50&fontAlignY=42&animation=twinkling&desc=IoT%20CSharp,Java,Python%20Lecturer"/>
+  <a href="https://github.com/e-ji1107/e-ji1107">
+    <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Eunji's%20Repository&section=header&fontColor=005174&fontSize=60&fontAlign=50&fontAlignY=50&animation=twinkling&desc="/>
   </a>
 </p>
 
 ## Profile
-- `Name` : Yang EunJi
-- `Email` : diddmswl1107@gmail.com
-- 학력 : 동의대학교 컴퓨터소프트웨어공학과 학사
-- 이력 : 부경대학교 어쩌구 수업
-- 🔭 I'm currently working as an **IoT instructor**
-  - Major : C#, Smart Factory, IoT Development
-  - Minor : Python, Java, Web Dev(Spring Boot, ASP.NET, etc)
- 
+- 이름 : Yang EunJi
+- 이메일 : diddmswl1107@gmail.com
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=e-ji1107&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/e-ji1107?pet-id=727774432772014017"
-    width="600"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=e-ji1107&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/e-ji1107"
+  width="600"
+  height="300"
+/>
 </a>
   
  
