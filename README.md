@@ -15,12 +15,6 @@
   height="300"
 />
 </a>
-<img
-  src="https://render.gitanimals.org/farms/e-ji1107"
-  width="1000"
-  height="300"
-/>
-</a>
   
  
 ## GitHub Stat and Languages
